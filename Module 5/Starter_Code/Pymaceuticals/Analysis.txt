@@ -1,0 +1,5 @@
+Several conclusions can be drawn from the data analysis visualization of the mouse treatment.
+1. The heavier the mouse is in terms of weight, the larger the turmor volume is on average when we observe the treatment of mouse under the drug regimen Capomulin
+2. The Tumor voulme decreases longer the mouse is treated with a durg, as visualised by the tumor volume vs timpoint graph of mouse l509 under the drug capomulin
+3. Tumor volume of mice teated under the drugs Infubinol and Cefatamin was much larger in comparison with mice treated under the drug Capomulin and Ramicane
+4. Gender distribution of mice treated remained on average equal between genders where the were split 50/50 between male and female mouse  
